@@ -17,7 +17,7 @@
 }
 
 h3 {
-  text-align: center;
+  text-align: right;
   grid-area: res;
   font-size: 2rem;
   margin: 7px 10px 0 0;
@@ -38,4 +38,8 @@ button:hover {
 
 #equal {
   grid-area: equal;
+}
+
+#clear {
+  grid-area: reset;
 }
